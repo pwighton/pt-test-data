@@ -1,4 +1,4 @@
-# Pilot Tone Test Data: Looking for Imaging Artifacts 
+# Pilot Tone Test Data: Image Artifact Test
 
 Aquisition Date: 20260202
 
