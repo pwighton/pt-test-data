@@ -1,0 +1,29 @@
+{
+  "title": "t2 tse tra dark fluid artifact test",
+  "imageOptionsArray": [
+    {
+      "name": "006_t2_fl2d_tra_hemo_ARIA--nm-npt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/t2-fl2d/006_t2_fl2d_tra_hemo_ARIA--nm-npt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    },
+    {
+      "name": "015_t2_fl2d_tra_hemo_ARIA--nm-pt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/t2-fl2d/015_t2_fl2d_tra_hemo_ARIA--nm-pt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    },
+    {
+      "name": "016_t2_fl2d_tra_hemo_ARIA--nm-pt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/t2-fl2d/016_t2_fl2d_tra_hemo_ARIA--nm-pt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    },
+    {
+      "name": "017_t2_fl2d_tra_hemo_ARIA--nm-pt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/t2-fl2d/017_t2_fl2d_tra_hemo_ARIA--nm-pt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    }
+  ]
+}

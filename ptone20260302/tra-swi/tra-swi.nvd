@@ -1,0 +1,29 @@
+{
+  "title": "t2 tse tra dark fluid artifact test",
+  "imageOptionsArray": [
+    {
+      "name": "007_TRA_SWI--nm-npt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/tra-swi/007_TRA_SWI--nm-npt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    },
+    {
+      "name": "018_TRA_SWI--nm-pt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/tra-swi/018_TRA_SWI--nm-pt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    },
+    {
+      "name": "020_TRA_SWI--nm-pt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/tra-swi/020_TRA_SWI--nm-pt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    },
+    {
+      "name": "022_TRA_SWI--nm-pt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/tra-swi/022_TRA_SWI--nm-pt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "t2 tse tra dark fluid artifact test",
+  "imageOptionsArray": [
+    {
+      "name": "005_t2_tse_tra_dark-fluid_ARIA--nm-npt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/t2-tse/005_t2_tse_tra_dark-fluid_ARIA--nm-npt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    },
+    {
+      "name": "012_t2_tse_tra_dark-fluid_ARIA--nm-pt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/t2-tse/012_t2_tse_tra_dark-fluid_ARIA--nm-pt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    },
+    {
+      "name": "013_t2_tse_tra_dark-fluid_ARIA--nm-pt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/t2-tse/013_t2_tse_tra_dark-fluid_ARIA--nm-pt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    },
+    {
+      "name": "014_t2_tse_tra_dark-fluid_ARIA--nm-pt_ptone20260302.nii",
+      "url": "https://raw.githubusercontent.com/pwighton/pt-test-data/refs/heads/main/ptone20260302/t2-tse/014_t2_tse_tra_dark-fluid_ARIA--nm-pt_ptone20260302.nii",
+      "colormap": "gray",
+      "opacity": 1.0
+    }
+  ]
+}
