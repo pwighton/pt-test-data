@@ -9,6 +9,7 @@ Filename Key:
 - `npt` indicates no pilot tone signal was broadcast
 - `pt` indicates a pilot tone signal was broadcast
 - `diff` inidicates a difference image
+- `.nvd` in the extension indicates a niivue document (used in the visualization links below)
 
 ## Visualization Links:
 
